@@ -4,7 +4,7 @@
 
 # Hi there, I'm Patanjali 👋
 
-💻 Software Engineer | Backend & Distributed Systems | AI Engineering  
+💻 Software Engineer | Backend & Distributed Systems | AI Engineering  | Full-Stack
 
 ⚡ Building scalable microservices, event-driven systems, cloud-native applications, and production-ready AI platforms  
 
