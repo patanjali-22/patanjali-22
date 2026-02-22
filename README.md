@@ -138,11 +138,10 @@ I enjoy building systems that **scale reliably, reduce manual effort, and operat
 
 ## 🚀 Featured Projects
 
-### 🔹 Smart AI Agent
-AI-powered intelligent agent built to automate task execution, contextual reasoning, and dynamic workflow handling.  
-Designed with modular architecture integrating LLM APIs, backend orchestration, and persistent memory storage.
+### 🔹 Distributed Blog Platform
+Microservices-based blog system built using event-driven architecture with RabbitMQ and Redis caching for scalability.
 
-**Tech:** Python, OpenAI API, Vector DB, REST APIs, Docker  
+**Tech:** Node.js, MongoDB, PostgreSQL, RabbitMQ, Redis, Docker  
 
 ---
 
@@ -154,10 +153,11 @@ Designed with modular architecture integrating LLM APIs, vector search (ChromaDB
 
 ---
 
-### 🔹 Distributed Blog Platform
-Microservices-based blog system built using event-driven architecture with RabbitMQ and Redis caching for scalability.
+### 🔹 Smart AI Agent
+AI-powered intelligent agent built to automate task execution, contextual reasoning, and dynamic workflow handling.  
+Designed with modular architecture integrating LLM APIs, backend orchestration, and persistent memory storage.
 
-**Tech:** Node.js, MongoDB, PostgreSQL, RabbitMQ, Redis, Docker  
+**Tech:** Python, OpenAI API, Vector DB, REST APIs, Docker   
 
 ---
 
