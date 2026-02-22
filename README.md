@@ -40,10 +40,11 @@ I enjoy building systems that **scale reliably, reduce manual effort, and operat
 ## 🛠️ Tech Stack
 
 <table>
+
 <tr>
 <td width="50%" valign="top">
 
-## 💻 Languages
+### 💻 Languages
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
 ![C++](https://skillicons.dev/icons?i=cpp)
@@ -58,7 +59,7 @@ I enjoy building systems that **scale reliably, reduce manual effort, and operat
 
 <td width="50%" valign="top">
 
-## ⚙️ Backend & APIs
+### ⚙️ Backend & APIs
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
@@ -71,7 +72,7 @@ I enjoy building systems that **scale reliably, reduce manual effort, and operat
 <tr>
 <td width="50%" valign="top">
 
-## 🎨 Frontend
+### 🎨 Frontend
 ![React](https://skillicons.dev/icons?i=react)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 ![Angular](https://skillicons.dev/icons?i=angular)
@@ -82,7 +83,7 @@ I enjoy building systems that **scale reliably, reduce manual effort, and operat
 
 <td width="50%" valign="top">
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![GCP](https://skillicons.dev/icons?i=gcp)
 ![Docker](https://skillicons.dev/icons?i=docker)
@@ -96,7 +97,7 @@ I enjoy building systems that **scale reliably, reduce manual effort, and operat
 <tr>
 <td width="50%" valign="top">
 
-## 🗄 Databases & Messaging
+### 🗄 Databases & Messaging
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -109,7 +110,7 @@ I enjoy building systems that **scale reliably, reduce manual effort, and operat
 
 <td width="50%" valign="top">
 
-## 🤖 AI Engineering
+### 🤖 AI Engineering
 ![LLMs](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Pipelines-orange?style=for-the-badge)
@@ -122,7 +123,7 @@ I enjoy building systems that **scale reliably, reduce manual effort, and operat
 <tr>
 <td width="50%" valign="top">
 
-## 🔍 Observability & Testing
+### 🔍 Observability & Testing
 ![Prometheus](https://skillicons.dev/icons?i=prometheus)
 ![Grafana](https://skillicons.dev/icons?i=grafana)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
@@ -130,26 +131,20 @@ I enjoy building systems that **scale reliably, reduce manual effort, and operat
 </td>
 
 <td width="50%" valign="top">
-</td>
-</tr>
 
-<tr>
-  <td width="50%" valign="top">
-## 🧰 Developer Tools
+### 🧰 Developer Tools
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Maven](https://skillicons.dev/icons?i=maven)
 ![Gradle](https://skillicons.dev/icons?i=gradle)
-</div>
 
-</td>
-
-<td width="50%" valign="top">
 </td>
 </tr>
+
 </table>
+
 ---
 
 ## 🌐 Connect With Me
