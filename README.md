@@ -136,31 +136,6 @@ I enjoy building systems that **scale reliably, reduce manual effort, and operat
 </table>
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Distributed Blog Platform
-Microservices-based blog system built using event-driven architecture with RabbitMQ and Redis caching for scalability.
-
-**Tech:** Node.js, MongoDB, PostgreSQL, RabbitMQ, Redis, Docker  
-
----
-
-### 🔹 Code Review Assistant
-AI-powered code review system built to automate pull request analysis using RAG pipelines, embedding-based retrieval, and contextual reasoning.  
-Designed with modular architecture integrating LLM APIs, vector search (ChromaDB), LangChain orchestration, and a Streamlit interface, reducing manual review time by 30%.
-
-**Tech:** Python, GCP Vertex AI, ChromaDB, LangChain, OpenAI API, Streamlit, CrewAI  
-
----
-
-### 🔹 Smart AI Agent
-AI-powered intelligent agent built to automate task execution, contextual reasoning, and dynamic workflow handling.  
-Designed with modular architecture integrating LLM APIs, backend orchestration, and persistent memory storage.
-
-**Tech:** Python, OpenAI API, Vector DB, REST APIs, Docker   
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
