@@ -43,11 +43,11 @@ Implements event-driven architecture with async messaging and caching for high p
 
 ---
 
-### 🔹 Smart AI Agent
-AI-powered intelligent agent built to automate task execution, contextual reasoning, and dynamic workflow handling.  
-Designed with modular architecture integrating LLM APIs, backend orchestration, and persistent memory storage.
+### 🔹 Code Review Assistant
+AI-powered code review system built to automate pull request analysis using RAG pipelines, embedding-based retrieval, and contextual reasoning.  
+Designed with modular architecture integrating LLM APIs, vector search (ChromaDB), LangChain orchestration, and an interactive Streamlit interface, reducing manual review time by 30%.
 
-**Tech:** Python / Node.js, OpenAI API, Vector DB, REST APIs, Docker  
+**Tech:** Python, Generative AI, GCP Vertex AI, ChromaDB, LangChain, OpenAI API, Streamlit, CrewAI
 
 ---
 
