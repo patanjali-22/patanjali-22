@@ -16,12 +16,12 @@ I enjoy solving distributed systems problems, performance optimization, and prod
 
 ## 🛠 Tech Stack
 
-**Languages:** Java, Python, JavaScript, SQL  
-**Backend:** Spring Boot, Node.js  
-**Frontend:** React, TypeScript  
-**Databases:** PostgreSQL, MySQL, Redis, Oracle  
+**Languages:** Java, C, C++, C#, Python, JavaScript, SQL  
+**Backend:** Spring Boot, Node.js, .NET  
+**Frontend:** React, TypeScript, Angular  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Oracle  
 **Messaging:** Kafka, RabbitMQ  
-**Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD  
+**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, CI/CD  
 
 ---
 
@@ -44,5 +44,5 @@ Full-stack healthcare platform using Java Spring Boot and React with API Gateway
 
 ## 📫 Connect With Me
 
-- LinkedIn: (add your link)
-- Email: (add your email)
+- LinkedIn: https://www.linkedin.com/in/patanjali-uppugandla-2833ba232/
+- Email: upatanjali6@gmail.com
