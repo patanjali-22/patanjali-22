@@ -1,7 +1,7 @@
 # Hi, I'm Patanjali 👋
 
-🚀 Software Engineer | Backend & Distributed Systems  
-💻 Java • Spring Boot • Kafka • React • AWS • PostgreSQL  
+🚀 Software Engineer | Backend & Distributed Systems  | Full-Stack
+💻 Java • Spring Boot • React • Kafka • AWS • PostgreSQL  
 
 ---
 
@@ -27,18 +27,27 @@ I enjoy solving distributed systems problems, performance optimization, and prod
 
 ## 📌 Featured Projects
 
-### 🔹 Distributed Blog Platform
-Microservices-based blog system built with Node.js, MongoDB, RabbitMQ, Redis & PostgreSQL.  
-🔗 Live Demo: https://blogappmicroservices.netlify.app/blogs  
+### 🔹 MediPatient — Healthcare Platform
+Full-stack healthcare platform built with Java Spring Boot and React using microservices architecture and API Gateway.  
+Supports REST & gRPC communication with secure authentication and scalable backend services.
 
-### 🔹 Healthcare Platform (MediPatient)
-Full-stack healthcare platform using Java Spring Boot and React with API Gateway and microservices architecture.
+**Tech:** Java, Spring Boot, React, PostgreSQL, Docker
 
 ---
 
-## 📈 GitHub Stats
+### 🔹 Distributed Blog Platform
+Microservices-based blog system built with Node.js, MongoDB, RabbitMQ, Redis & PostgreSQL.  
+Implements event-driven architecture with async messaging and caching for high performance.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=patanjali-22&show_icons=true&theme=default)
+🔗 Live Demo: https://blogappmicroservices.netlify.app/blogs  
+
+---
+
+### 🔹 Smart AI Agent
+AI-powered intelligent agent built to automate task execution, contextual reasoning, and dynamic workflow handling.  
+Designed with modular architecture integrating LLM APIs, backend orchestration, and persistent memory storage.
+
+**Tech:** Python / Node.js, OpenAI API, Vector DB, REST APIs, Docker  
 
 ---
 
