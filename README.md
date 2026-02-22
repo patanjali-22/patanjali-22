@@ -133,6 +133,22 @@ I enjoy building systems that **scale reliably, reduce manual effort, and operat
 </td>
 </tr>
 
+<tr>
+  <td width="50%" valign="top">
+## 🧰 Developer Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Bash](https://skillicons.dev/icons?i=bash)
+![Maven](https://skillicons.dev/icons?i=maven)
+![Gradle](https://skillicons.dev/icons?i=gradle)
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 ---
 
